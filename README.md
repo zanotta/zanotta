@@ -11,7 +11,7 @@ What i work with:
 * MySQL
 * Bootstrap
 
-What i'm current learning (among other things):
+What i'm currently learning (among other things):
 * React
 * React-Native
 * NextJS
