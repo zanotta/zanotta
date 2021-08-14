@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=zanotta)
+[![Zanotta's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanotta)](https://github.com/anuraghazra/github-readme-stats)
 
 Hi there, i'm **Rodrigo Zanotta** a Full-Stack Web-Developer from Brazil. I'm 30 years old and i work at J&O Software, a company based in Cachoeirinha, Brazil.
 
