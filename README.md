@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=zanotta)
-
 Hi there, i'm **Rodrigo Zanotta** a Full-Stack Web-Developer from Brazil. I'm 31 years old and i work at J&O Software, a company based in Cachoeirinha, Brazil.
 
 What i work with:
