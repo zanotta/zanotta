@@ -1,4 +1,4 @@
-Hi there, i'm **Rodrigo Zanotta** a Full-Stack Web-Developer from Brazil. I'm 31 years old and i work at J&O Software, a company based in Cachoeirinha, Brazil.
+Hi there, i'm **Rodrigo Zanotta** a Full-Stack Web-Developer from Brazil. I'm 31 years old and i work at J&O Software, a company located in Cachoeirinha, Brazil.
 
 What i work with:
 * PHP (Laravel, CodeIgniter)
@@ -9,9 +9,9 @@ What i work with:
 * Apache
 * Linux
 * MySQL
+* MongoDB
+* Firebase
 * Bootstrap
-
-What i'm currently learning (among other things):
 * React
 * React-Native
 * NextJS
